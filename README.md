@@ -13,3 +13,13 @@
 
 	npm run dev 
 	npm run android
+	
+	if npm run android return error:
+	
+	npm I jetifier
+	npx jetify
+	
+	and try again:
+	
+	npm run android
+	
