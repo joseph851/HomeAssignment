@@ -1,4 +1,6 @@
 
+React Native App
+
 1.Cloning HomeAssignment:
 
 	git clone https://github.com/joseph851/Products-catalog.git
