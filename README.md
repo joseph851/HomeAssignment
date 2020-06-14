@@ -1,7 +1,7 @@
 
 1.Cloning HomeAssignment:
 
-	git clone https://github.com/joseph851/HomeAssignment.git
+	git clone https://github.com/joseph851/Products-catalog.git
 	cd HomeAssignment
    
 2.Install dependencies:
