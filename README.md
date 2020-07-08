@@ -3,7 +3,7 @@ React Native App
 
 1.Cloning HomeAssignment:
 
-	git clone https://github.com/joseph851/Products-catalog.git
+	git clone https://github.com/idannn/Products-catalog.git
 	cd HomeAssignment
    
 2.Install dependencies:
