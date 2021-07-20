@@ -19,7 +19,7 @@
     "native-base": "^2.13.12",
     "nodemon": "^2.0.2",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-elements": "^1.2.7",
     "react-native-vector-icons": "^6.6.0",
     "react-redux": "^7.2.0",
